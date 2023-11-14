@@ -1,0 +1,132 @@
+{
+  "en": [
+    {
+      "author": "Digital Agency Web3.0 Research Group",
+      "title": "Web3.0 Reseach Group's Report ―Toward Sound Development of Web3.0",
+      "link": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/a31d04f1-d74a-45cf-8a4d-5f76e0f1b6eb/32054b11/20230308_meeting_web3_report_01.pdf",
+      "date": "2022-12",
+      "isTranslation": true
+    },
+    {
+      "author": "LDP Headquarters for the Promotion of Digital Society, The web3 Project Team",
+      "title": "The web3 White Paper -Towards an era of mass adoption of Digital Assets",
+      "link": "https://note.com/api/v2/attachments/download/2225575ba24dfb69bca3a313a7d5024e",
+      "date": "2023-04",
+      "isTranslation": true
+    },
+    {
+      "author": "Akihiro Shiba et al.",
+      "title": "Blockchain 2023 Japan Trends and Developments",
+      "link": "https://practiceguides.chambers.com/practice-guides/blockchain-2023/japan/trends-and-developments",
+      "date": "2023-05",
+      "isTranslation": false
+    },
+    {
+      "author": "Ken Kawai et al.",
+      "title": "Blockchain 2023 Japan Law and Practice",
+      "link": "https://practiceguides.chambers.com/practice-guides/blockchain-2023/japan/trends-and-developments",
+      "date": "2023-05",
+      "isTranslation": false
+    },
+    {
+      "author": "Takeshi Nagase et al.",
+      "title": "Blockchain & Cryptocurrency Laws and Regulations 2024 | Japan",
+      "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/japan",
+      "date": "2023-10",
+      "isTranslation": false
+    }
+  ],
+  "jp": [
+    {
+      "author": "鈴木尊明",
+      "title": "新・判例解説Watch ビットコインを客体とする所有権の成立が否定された事例",
+      "link": "https://lex.lawlibrary.jp/commentary/pdf/z18817009-00-031071316_tkc.pdf",
+      "date": "2016-02"
+    },
+    {
+      "author": "河合健編",
+      "title": "Q&A 実務家のための暗号資産入門 法務・会計・税務",
+      "link": "https://www.sn-hoki.co.jp/shop/f/img/items/pdf/sample/5100153.pdf",
+      "date": "2020-12"
+    },
+    {
+      "author": "自民党デジタル社会推進本部NFT政策検討PT",
+      "title": "NFTホワイトペーパー（案）Web3.0時代を見据えたわが国のNFT戦略",
+      "link": "https://www.taira-m.jp/NFT%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%A1%8820220330.pdf",
+      "date": "2022-03"
+    },
+    {
+      "author": "自由民主党デジタル社会推進本部web3 プロジェクトチーム",
+      "title": "Web3ホワイトペーパー",
+      "link": "https://www.taira-m.jp/web3%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%EF%BC%88%E6%A1%88%EF%BC%89_230406.pdf",
+      "date": "2022-03"
+    },
+    {
+      "author": "国税庁",
+      "title": "暗号資産に関する税務上の取扱いについて（情報）",
+      "link": "https://www.nta.go.jp/publication/pamph/pdf/virtual_currency_faq_03.pdf",
+      "date": "2022-12"
+    },
+    {
+      "author": "デジタル庁 Web3.0研究会",
+      "title": "Web3.0 研究会報告書〜Web3.0 の健全な発展に向けて〜",
+      "link": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/a31d04f1-d74a-45cf-8a4d-5f76e0f1b6eb/a53d5e03/20221227_meeting_web3_report_00.pdf",
+      "date": "2022-12"
+    },
+    {
+      "author": "デロイトトーマツコンサルティング合同会社",
+      "title": "⽇本におけるデジタル資産・分散台帳技術の活⽤、事業環境整備に係る調査研究最終報告書",
+      "link": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/a31d04f1-d74a-45cf-8a4d-5f76e0f1b6eb/039558e7/20221228_meeting_web3_report_00.pdf",
+      "date": "2022-12"
+    },
+    {
+      "author": "国税庁",
+      "title": "法人が保有する暗号資産に係る期末時価評価の取扱いについて（情報）",
+      "link": "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/230120/pdf/01.pdf",
+      "date": "2023-01"
+    },
+    {
+      "author": "河合健他",
+      "title": "ステーブルコイン法制に関する政令・内閣府令案等について(前編)",
+      "link": "https://www.amt-law.com/asset/pdf/bulletins2_pdf/230208.pdf",
+      "date": "2023-02"
+    },
+    {
+      "author": "河合健他",
+      "title": "ステーブルコイン法制に関する政令・内閣府令案等について(後編)",
+      "link": "https://www.amt-law.com/asset/pdf/bulletins2_pdf/230327.pdf",
+      "date": "2023-03"
+    },
+    {
+      "author": "金融庁",
+      "title": "事務ガイドライン（第三分冊：金融会社関係）」（16 暗号資産交換業者関係）",
+      "link": "https://www.fsa.go.jp/common/law/guide/kaisya/16.pdf",
+      "date": "2023-03"
+    },
+    {
+      "author": "金融庁",
+      "title": "コメントの概要及びコメントに対する金融庁の考え方",
+      "link": "https://www.fsa.go.jp/news/r4/sonota/20230324-2/1.pdf",
+      "date": "2023-03"
+    },
+    {
+      "author": "PwC Legal Japan",
+      "title": "金融庁「事務ガイドライン」（暗号資産交換業者関係）の改正－各種トークンの暗号資産該当性に関する解釈の明確化等－",
+      "link": "https://www.pwc.com/jp/ja/legal/news/assets/legal-2023406.pdf",
+      "date": "2023-04"
+    },
+    {
+      "author": "芝 章浩他",
+      "title": "新しいステーブルコイン規制の概要～令和 4 年資金決済法等改正法・FATF 勧告対応法の施行を踏まえて～",
+      "link": "https://www.nishimura.com/sites/default/files/newsletters/file/finance_law_230807_ja.pdf",
+      "date": "2023-08"
+    },
+    {
+      "author": "⼀般社団法⼈⽇本暗号資産ビジネス協会、⼀般社団法⼈⽇本暗号資産取引業協会",
+      "title": "暗号資産発⾏者の会計処理検討にあたり考慮すべき事項",
+      "link": "https://jvcea.or.jp/news/main-info/20230906-001/",
+      "date": "2023-09"
+    },
+    {}
+  ]
+}
